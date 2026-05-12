@@ -1,6 +1,6 @@
 # 🛡️ Valex-Grand Terminaline Hoş Geldiniz
 
-![Valex Security](https://capsule-render.vercel.app/api?type=waving&color=red&height=300&section=header&text=VALEX-GRAND&fontSize=90&animation=fadeIn&fontAlignY=38)
+![Valex Security](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VALEX-GRAND&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QU9B0fU84S09SCS5F9/giphy.gif" width="100%">
 
