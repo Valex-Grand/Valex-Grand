@@ -1,5 +1,8 @@
 # 🛡️ Valex-Grand Terminaline Hoş Geldiniz
 
+
+![Valex Security](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VALEX-GRAND&fontSize=90&animation=fadeIn&fontAlignY=38)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/cyberpunk.gif" alt="Valex Banner" width="800">
 </p>
@@ -29,14 +32,6 @@
   
 ---
 
-### 📊 İstatistikler ve Aktivite
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valex-Grand&show_icons=true&theme=tokyonight&count_private=true" alt="Valex İstatistik" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valex-Grand&layout=compact&theme=tokyonight&hide=html,css" alt="Diller" height="180">
-</p>
-
----
 
 ### 🔗 Bağlantılar
 *   **Medium:** [Teknik Makaleler ve Araştırmalar](https://medium.com/@valexinmade0q)
