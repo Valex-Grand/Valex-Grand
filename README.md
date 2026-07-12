@@ -2,16 +2,22 @@
 
 ![Valex Security](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VALEX-GRAND&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QU9B0fU84S09SCS5F9/giphy.gif" width="100%">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/cyberpunk.gif" alt="Valex Banner" width="800">
 </p>
 
-### 👤 Kimlik: Valex
-**Sistem Mimarı | Siber Güvenlik Araştırmacısı | Yüksek Seviyeli Yazılım Geliştirici**
+### 👤 Kimlik: Valex-Grand
+**Systems Architect | Cyber Security Researcher | Independent Software Developer**
 
-> "Maksimum verimlilik, minimum kaynak. Sadece saf mantık."
+> "Maksimum verimlilik, minimum kaynak. Güvenlik bir seçenek değil, altyapının temelidir."
+
+---
+
+### 📰 Güncel Teknik Yayınlar
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20My%20Latest%20Article-0a0f1d?style=for-the-badge&logo=devto&logoColor=00d2ff)](https://dev.to/valexgrand/hello-world-from-valex-grand-building-resilient-systems-455l)
+
+> **Son Makale:** *Hello World from Valex-Grand: Building Resilient Systems* — Go ve WebSockets tabanlı ağ mimarileri (Terminal-Wars & Leviathan) üzerine teknik inceleme.
 
 ---
 
@@ -19,25 +25,24 @@
 
 | Kategori | Araçlar ve Diller |
 | :--- | :--- |
-| **Programlama Dilleri** | `Rust`, `Go`, `C++`, `Python`, `Bash` |
-| **Siber Güvenlik** | `Ağ Analizi`, `Kriptografi`, `Sızma Testleri`, `Linux Sertleştirme` |
-| **İşletim Sistemleri** | `Kali Linux`, `Arch Linux`, `Debian` |
-| **Teknolojiler** | `Tokio` (Async Rust), `Next.js` (Dashboard), `Git` |
+| **Programlama Dilleri** | `Go`, `Rust`, `C++`, `Python`, `Bash` |
+| **Siber Güvenlik & Ağ** | `Ağ Analizi`, `Kriptografi`, `WAF Yapılandırma`, `Linux Sertleştirme` |
+| **İşletim Sistemleri** | `Arch Linux`, `Kali Linux`, `Debian Core` |
+| **Teknolojiler** | `WebSockets`, `Tokio` (Async Rust), `Git Ecosystem` |
 
 ---
 
-### 🚀 Aktif Projeler
+### 🚀 Aktif Projeler & Çekirdek Sistemler
 
-
-*   **[Leviathan](https://github.com/Valex-Grand/Leviathan)** - Dosyaları katmanlı parçalara ayırarak depolayan yüksek güvenlikli şifreleme algoritması.
+*   **[Terminal-Wars](https://github.com/Valex-Grand)** - Go ve WebSockets altyapısıyla çalışan, çoklu istemcilerin aynı anda eşzamanlı komutlar yürütebildiği gerçek zamanlı network simülasyonu.
+*   **[Leviathan](https://github.com/Valex-Grand)** - Kaynak dosyaları yüz parçaya bölerek şifreleyen ve bulut altyapılarına güvenli dağıtım sağlayan Go tabanlı kriptografik veri yönetim platformu.
   
 ---
 
+### 🔗 Resmi İletişim Kanalları
 
-### 🔗 Bağlantılar
-*   **Medium:** [Teknik Makaleler ve Araştırmalar](https://medium.com/@valexinmade0q)
-*   **LinkedIn:** [Profesyonel Ağ](https://linkedin.com/in/valex-grand)
-*   **X (Twitter):** [@valexinmade0q](https://twitter.com/valexinmade0q)
+[![Instagram](https://img.shields.io/badge/Instagram-valexgrand-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valexgrand)
+[![GitHub](https://img.shields.io/badge/GitHub-Valex--Grand-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valex-Grand)
 
 ---
 
