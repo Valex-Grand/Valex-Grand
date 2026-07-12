@@ -1,6 +1,6 @@
 # 🛡️ Valex-Grand Terminaline Hoş Geldiniz
 
-![Valex Security](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=VALEX-GRAND&fontSize=90&animation=fadeIn&fontAlignY=38)
+![Valex Security](https://capsule-render.vercel.app/api?type=soft&color=0a0f1d&height=220&text=VALEX::GRAND&fontSize=80&animation=fadeIn&fontColor=ffffff&stroke=00ff66&strokeWidth=1)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/cyberpunk.gif" alt="Valex Banner" width="800">
