@@ -44,17 +44,7 @@
 
 ---
 
-## 🚀 Aktif Projeler & Çekirdek Sistemler
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ [Terminal-Wars](https://github.com/Valex-Grand)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-Go ve WebSockets altyapısıyla çalışan, çoklu istemcilerin **aynı anda eşzamanlı komut** yürütebildiği gerçek zamanlı network simülasyonu.
 
 </td>
 <td width="50%" valign="top">
