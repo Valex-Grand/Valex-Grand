@@ -49,11 +49,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🐙 [Leviathan](https://github.com/Valex-Grand)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Kriptografi-00ff66?style=flat-square&logo=letsencrypt&logoColor=black)
 
-Kaynak dosyaları **yüz parçaya bölerek şifreleyen** ve bulut altyapılarına güvenli dağıtım sağlayan kriptografik veri yönetim platformu.
 
 </td>
 </tr>
